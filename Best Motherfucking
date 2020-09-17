@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	 <meta charset="UTF-8" />
+    	 <style>
+    	 	body
+{
+color: #444; margin: 80px auto; max-width: 800px; line-height: 22.4px ; font-size: 16px; font-family: Arial; text-align: justify;
+}
+
+h1, h2, h3
+{
+
+	line-height: 28.8px ;
+
+}
+
+span
+{
+	color: #730000;
+}
+</style>
+<title>The Best Motherfucking Website</title>
+<!-- Le "title" s'affiche sur l'onglet -->
+    </head>
+   
+    <body>
+<h1>This is the <em>best</em> motherfucking website.</h1>
+<!-- Ce titre s'affiche en haut de page-->
+<p>Really, it is.</p> 
+
+<h2>Seriously, you guys think that a fucking website doesn't need some styling?</h2>
+<p>You probably build websites using vim and feeling hardcore. You think your 4.99KB <span>motherfuckingwebsite</span>(.com) is going to get you some fucking award to put on your damn footer as a link. You think your fucking default font is gonna make your website run even on a toaster.<br/>
+<p><font color="#c0392b"><U><strong>WRONG</strong></U></font>, motherfucker.</p>
+</p>
+
+<h2>The best kick-ass website</h2>
+<p>Let me describe the <em>real</em> perfect-ass website which still has the glory of the past <span>motherfuckingwebsites</span>:</p>
+<ul>
+<li>Shit doesn't weigh a ton (in fact it's just 34.97 KB when the 27.83KB cat picture below is removed)</li>
+<li>The page weighs exactly 63.02kB, 93.7% less than the <a href="https://www.google.com/">Google home page</a></li>
+<li>Fits on your iPhone 1st gen (although it doesn't work on your damn 16x32 Tamagotchi)</li>
+<li>Looks <em>almost</em> the same on every screen</li>
+<li>Every asshole that visits this website can use it without any problem <font size="1"><small>well, kind of</small></font></li>
+<li>It's <a href="https://www.w3.org/TR/WCAG20/">accessible</a>, so everyone can enjoy it <font size="1"><small>but not everyone can read this - this text is Ant-Accessible</small></font></li>
+<li>Shit is <em>even more</em> legible than the fucking two previous versions - and it also has a cleanish style without looking like an <a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a> website</li>
+<li>Doesn't load massive images or scripts. We should all care about people who still use <a href="https://en.wikipedia.org/wiki/IP_over_Avian_Carriers">IPoAC</a></li>
+<li>Uses only free and open resources. Like this ass-breaking font called "Open Sans" <font size="1"><small>which btw weighs 15.21kB, wtf</small></font></li>
+<li>It doesn't load your glorious jQuery or jQueryUI with all their fucking styles and shits. Nor Angular or any other framework. This website is made with plain HTML, CSS3 and JS. Keep it Vanilla!</li>
+<li>Doesn't include any tracking service this website does, but hey, who cares</li>
+<li>Images aren't forbidden, but when SVG is available JUST USE IT.</li>
+<li>Use <em>some</em> fucking <font color ="#eb477e">colors.</font></font></li>
+<li>Links don't really need to keep that <font color ="#0000ee">shitty blue</font> the browser is giving them: nor that <font color="#551a8b">violetish color</font> when they are marked as visited. Just give them a <a href="https://www.colorhexa.com/0077aa"><font color="#0077aa"><U>nice color</U></a></font></li>
+</ul>
+
+<h3>Well guess what, motherfucker:</h3>
+
+<p>This website is even better than the last <a href="http://bettermotherfuckingwebsite.com/">guy</a> and the <a href="http://motherfuckingwebsite.com/">guy</a> before him.</p>
+<p>Why?</p>
+   <ul>
+<li>It's over a <a href="https://en.wikipedia.org/wiki/HTTPS"><font color="#0077aa">secure connection</font></a> - so nobody can spy what we're serving to you (the page might be different for everyone, pshht!).</li>
+<li>It uses one of the most general <a href="https://en.wikipedia.org/wiki/Generic_top-level_domain"><font color="#0077aa">gTLDs</font></a> available out there: .website</li>
+<li>It uses the TLD, too: bestmotherfucking.website, check out <a href="https://domainr.com/"><font color="#0077aa">domainr</font></a> to do something cool too.</li>
+<li>It uses the kickass <a href="https://letsencrypt.org/"><font color="#0077aa">Let's Encrypt</font></a> CA (don't you see the gorgeous lock?)</li>
+<li>It runs on <a href=https://www.nginx.com/welcome-to-nginx/><font color="#0077aa">nginx</font></a>: the best fucking web server instead of Apache Server</li>
+<li>It uses <a href="https://thebestmotherfucking.website/js/jquery-2.2.4.min.js"><font color="#0077aa">a custom version</font></a> of the awesome <a href="https://jquery.com/"><font color="#0077aa">ultra-lightweight jQuery</font></a>/s</li>
+<li>It doesn't use a single media query <font size="1"><small>well, not really</small></font></li>
+<li>It probably doesn't support all the web browsers, but that's the best thing - if the user's browser is outdated he will notice and maybe he will switch from <a href="https://support.microsoft.com/fr-fr/office/aide-d-internet-explorer-23360e49-9cd3-4dda-ba52-705336cc0de2?ui=fr-FR&rs=fr-FR&ad=FR"><font color="#0077aa">the crap he uses</font></a> to <a href="https://www.mozilla.org/fr/firefox/"><font color="#0077aa">a much cooler browser</font></a></li>
+<li>It uses some cool technologies like JavaScript <img SRC = "JS.png", height="17px", width="17px"> , CSS3 <img SRC = "CSS3.png", height="17px", width="17px"> and HTML5 <img SRC = "HTML.png", height="17px", width="17px"></li>
+<li>It supports <a href="https://en.wikipedia.org/wiki/HTTP/2"><font color="#0077aa">HTTP/2</font></a></li>
+<li>It includes a Cache-Control header, so you don't waste your precious bandwidth if you visit the website more than once</li>
+<li>It uses <a href="https://matomo.org/"><font color="#0077aa">Piwik</font></a>, a free and Open Source analytics platform (we still love you Google, don't be mad at us)</li>
+<li>It allows universal access from every website via <a href="https://enable-cors.org/"><font color="#0077aa">CORS</font></a></li>
+<li>It is <a href="https://www.w3.org/WAI/intro/accessibility.php"><font color="#0077aa">Accessible</font></a></li>
+<li>It's Open Source, freely available on <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/"><font color="#0077aa">Github</font></a>, and everybody can contribute to it.</li>
+<li>It uses the <a href="http://www.wtfpl.net/"><font color="#0077aa">WTFPL - Do What the Fuck You Want to Public License</font></a>, which is pretty clear on what you can and what you can't do:</li>
+   </ul>
+<p><code><blockquote>0. You just DO WHAT THE FUCK YOU WANT TO.</blockquote></code></p>
+<h2>Put even less contrast</h2>
+<p>Yeah, a <img SRC = "Carré.jpg", height="17px", width="17px"> <strong>#444 is cool</strong> but a <img SRC = "Carré.jpg", height="17px", width="17px"> <strong>#454545 is better.</strong></p>
+<p>We don't need to break our eyes while looking at a <span>motherfuckingwebsite.</span></p>
+
+<h2>Size matters, yeah, but don't exaggerate</h2>
+<p>Remember, not everybody is blind, and not everybody wants to read a fucking 2 inches letter on a 27 inches screen, so keep it cool. Don't exaggerate in size, but don't make an ant-compatible text either.</p>
+
+<h2>Put some pictures</h2>
+<table>
+<td>
+<left><IMG SRC="Leon.jpg"
+alt="[Leon le Skameleon]"
+height="190px"
+width="260px"
+/>
+</left>
+</td>
+<td></td><td></td><td></td><td></td>
+<td>
+<right>We're not looking at a novel by Stephanie Meyer, this is a <span>motherfuckingwebsite</span> so include some pictures to give a context.</right>
+<p>The website shouldn't be overfilled with pictures, but it should make the user happy while reading your nonsense words.</p>
+<p>You see that fancy cat? He's happy, you should be too.</p></right>
+</td>
+</table></center>
+<p><line height="1px"><font size="1">Here is Leon smiling.</font></p>
+
+<h2>Yes, even this is satire.</h2>
+<p>But this doesn't mean you should load your <span>motherfuckingwebsite</span> with shitty animations, instead keep it simple, minify its resources and use images responsibly. Remember the IPoAC users, requests (with a small size) = faster load time!</p>
+
+<blockquote><p>"Good design is as little design as possible."<br />
+    <font size="1"><small>- Some German motherfucker on motherfuckingwebsite.com</small></font></p></blockquote>
+<p>That's not entirely true, look at that <span>motherfuckingwebsite</span>. It's so minimal that it can be considered crap.</p>
+
+<h2>Epilogue</h2>
+<p>Actually this website was made to follow the trend of the <U><a href="http://motherfuckingwebsite.com/"><span>motherfuckingwebsite</span></a></U> and the <a href="http://bettermotherfuckingwebsite.com/"><span>bettermotherfuckingwebsite</span></a>.</p>
+<p>Despite what was said here they're beautiful and truly among the best websites on the internet (even though this is still <span>thebestmotherfuckingwebsite</span>), so go check 'em out.</p>
+<p>Seriously, follow some of the advice we gave you, they'll "make the web great again" <sup><small>Cit. needed</small></sup></p>
+
+<h2>Author</h2>
+<p>This website was created by an annoyed developer that can <a href="https://www.linkedin.com/in/cassandre-impagliazzo-a2a223167/"><font color="#0077aa">be followed on LinkedIn</font></a>.<p>
+
+<h2>Resources</h2>
+<p>The Skameleon picture was taken from the <a href="https://www.webtimemedias.com/article/leon-le-skameleon-la-nouvelle-mascotte-globale-de-skema"><font color="#0077aa">Webmedia website</font></a>: check it out. The author is <a href="https://www.skema-bs.fr/"><font color="#0077aa">SKEMA</font></a>.</p>
+
+<h2>Legal</h2>
+<p>This website can be freely copied, modified, altered, distributed without any attribution whatsoever. However, if you feel like this website deserves an attribution, mention it. It won't hurt anybody :)</p>
+<p>Please, read the <a href="https://thebestmotherfucking.website/LICENSE.txt"><font color="#0077aa">license terms</font></a>.</br>
+Don't worry, it can be read in less than 30 seconds, unless you have some sort of reading disability - in that case, I'm wondering why you're still reading this text. Really. Stop. Please. I mean, seriously. Why are you still reading?</p>
+
+<center><img src="Logo.png"
+height="35px"
+width="35px"
+/></center>
+<h2>Contributions</h2>
+<p>Since this website includes some contributions, and I'm not an asshole, I'll publically thank the following users for their help:</p>
+<ul>
+	<li><a href="https://www.linkedin.com/in/mathis-meyer-a83092198/"><font color="#0077aa">Mathis Meyer</font></a> for his precious suggestions </li>
+    <li><a href="https://www.linkedin.com/in/maud-serafin-7a7291156/"><font color="#0077aa">Maud Serafin</font></a> for giving tips </li>
+    <li><a href="https://www.linkedin.com/in/mathilde-peigneguy-a82b83171/"><font color="#0077aa">Mathilde Peigneguy</font></a> for her support</li>
+ 
+</ul>
+
+    </body>
+</html>
